@@ -1,15 +1,15 @@
-# 🩺 HealthVault-AI: A Blockchain and AI Enabled Electronic Health Record System
+#  HealthVault-AI: A Blockchain and AI Enabled Electronic Health Record System
 
 > **Built with MERN Stack + Blockchain + IPFS + AI Chatbot**  
 > Bridging the gap between secure medical data, transparency, and control for patients, doctors, and labs.
 
 <br>
 
-## 📚 Table of Contents
-- [🚀 Project Overview](#-project-overview)
-- [🎯 Problem Statement](#-problem-statement)
+##  Table of Contents
+- [Project Overview](#-project-overview)
+- [ Problem Statement](#-problem-statement)
 - [💡 Our Solution](#-our-solution)
-- [🛠️ Tech Stack](#️-tech-stack)
+- [ Tech Stack](#️-tech-stack)
 - [Key Features](#key-features)
   - [1. Patient Management](#1-patient-management)
   - [2. Doctor Management](#2-doctor-management)
@@ -18,9 +18,9 @@
   - [5. Security & Best Practices](#5-security--best-practices)
   - [6. AI Chatbot](#6-ai-chatbot)
 - [Requirements for this project (How to Run on Your PC)](#requirements-for-this-projects-how-to-run-in-your-pc)
-- [⚠️ Drawbacks & Limitations](#️-drawbacks--limitations)
-- [🧪 Future Scope](#-future-scope)
-- [🧩 Core Features](#-core-features)
+- [ Drawbacks & Limitations](#️-drawbacks--limitations)
+- [ Future Scope](#-future-scope)
+- [ Core Features](#-core-features)
   - [✅ General](#-general)
   - [👤 Patient](#-patient)
   - [🧑‍⚕ Doctor](#-doctor)
@@ -30,7 +30,7 @@
   
 <br>
 
-## 🚀 Project Overview
+##  Project Overview
 
 **HealthVault-AI** is a blockchain-powered platform that enables secure, tamper-proof, and decentralized storage of medical records. It empowers **patients** with ownership and control over their health data, while providing **doctors** and **diagnostic centers** seamless yet permissioned access. The system ensures **trust, traceability, and transparency** — eliminating the risks of centralized failures, data leaks, and fake reports.
 
@@ -41,7 +41,7 @@
 
 <br>
 
-## 🎯 Problem Statement
+##  Problem Statement
 
 - Health records are fragmented across hospitals with **no unified view**.
 - **Patients lack control** over who can access their sensitive data.
@@ -66,7 +66,7 @@ A decentralized Electronic Health Record system with:
 
 <br>
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ## Frontend
 
@@ -152,30 +152,18 @@ HealthVault-AI is a next-generation, AI-integrated, decentralized healthcare pla
 - Track donations, disbursements, and treatment status transparently.
 - KYC + blockchain for donor and recipient verification.
 
-### 3. 🛡️ Insurance Scheme Integration
-- Compare & apply to government and private insurance plans.
-- Auto-fetch eligibility using Aadhaar and health data.
-- Claim filing and tracking from within the app.
 
-### 4. 💊 Smart Medicine Tracker
+### 3. 💊 Smart Medicine Tracker
 - Buy, store, and get reminders for your prescribed medicines.
 - Integrates with local pharmacies for delivery.
 - AI warns of possible side effects or expiry alerts.
 
-### 5. 🧠 AI-Based Health File Analysis
-- Upload any health report (PDF, image, or doc).
-- AI extracts values, flags anomalies, and summarizes findings.
-- Cross-check against past records and suggest next steps.
 
-### 6. 📈 Track Your Health System
+### 4. 📈 Track Your Health System
 - Daily/weekly tracking of vitals (BP, sugar, HR, etc.).
 - Sync with wearables (optional).
 - Visual health trends & alerts for irregularities.
 
-### 7. 🏥 Treatment Loan Schemes
-- Compare treatment-based micro-loan providers.
-- EMI estimation based on treatment cost.
-- Pre-approved limits for recurring patients.
 
 ---
 
@@ -244,7 +232,7 @@ npm install -g truffle
 12. Make JWT key of IPFS using Pinata Library [IPFS](https://app.pinata.cloud/ipfs/files) and Replace it in your project file connection to ipfs
     
 
-13. Run frontent
+13. Run frontend
 
 ```
 npm run dev
